@@ -16,5 +16,5 @@
 
 2. **Run the Program**
    ```bash
-  ./SimAndCure <input>
-  ```
+   ./SimAndCure <input>
+   ```
